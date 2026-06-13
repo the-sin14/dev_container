@@ -1,0 +1,1 @@
+`devcontainer-lock.json` - used to pin exact versions, cryptographic digests, and source URLs of installed features in the dev container
